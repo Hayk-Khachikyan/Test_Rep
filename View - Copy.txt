@@ -1,2 +1,6 @@
 Simple test.
+<<<<<<< HEAD
+Some new text.
+=======
 Let's change something here as well.
+>>>>>>> refs/remotes/origin/master
