@@ -1,1 +1,3 @@
-Simple test.
+Simple text.
+We are adding some new text.
+Also we are changing Simple test to Simple text.
