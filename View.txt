@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+Simple text with new text.
+=======
 Simple text.
 We are adding some new text.
 Also we are changing Simple test to Simple text.
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
+1234
+
